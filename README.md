@@ -1,2 +1,2 @@
 # ML_using_titanic_dataset
-ML and some visualization practice
+Machine Learning and some visualization practice
